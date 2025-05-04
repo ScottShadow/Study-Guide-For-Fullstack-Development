@@ -24,4 +24,6 @@
   🏋️‍♂️ [LeetCode: 30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript/)
 
 - **Anki**
-  📚 Anki APP [AnkiWeb](https://apps.ankiweb.netRemember to Star the Repository if you like it and come back for updates
+  📚 Anki APP [AnkiWeb](https://apps.ankiweb.net
+  
+Remember to Star the Repository if you like it and come back for updates
