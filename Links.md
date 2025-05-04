@@ -26,4 +26,3 @@
 
 - **Anki**
   📚 Anki APP [AnkiWeb](https://apps.ankiweb.net
-Remember to Star the Repository if you like it and come back for updates
