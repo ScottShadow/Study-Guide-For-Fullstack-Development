@@ -14,8 +14,8 @@
   📚 [W3Schools Git Tutorial](https://www.w3schools.com/git/default.asp)
 
 #### **3. Frontend Roadmap (Comprehensive Guide)**
-  🗺️ [Harambe TheGym](https://classic-cobalt-104.notion.site/Coding-in-the-gap-year-Curriculum-and-Schedule-1c3f98702c618007a3dffc868ccfda04)
-  🗺️ [Frontend Developer Roadmap](https://roadmap.sh/frontend)
+  - 🗺️ [Harambe TheGym](https://classic-cobalt-104.notion.site/Coding-in-the-gap-year-Curriculum-and-Schedule-1c3f98702c618007a3dffc868ccfda04)
+  - 🗺️ [Frontend Developer Roadmap](https://roadmap.sh/frontend)
 
 #### **4. Backend (Optional - Node.js)**
   🗺️ [Node.js Roadmap](https://roadmap.sh/nodejs)
