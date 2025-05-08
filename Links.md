@@ -17,13 +17,18 @@
   🗺️ [Harambe TheGym](https://classic-cobalt-104.notion.site/Coding-in-the-gap-year-Curriculum-and-Schedule-1c3f98702c618007a3dffc868ccfda04)
   🗺️ [Frontend Developer Roadmap](https://roadmap.sh/frontend)
 
+
 #### **4. Backend (Optional - Node.js)**
   🗺️ [Node.js Roadmap](https://roadmap.sh/nodejs)
 
 ### **Practical + Tests**
 - **JavaScript**
-  🏋️‍♂️ [LeetCode: 30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript/)
+  🏋️‍♂️ [LeetCode: 30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript)
+- **REACT**
+  🧪[React: 30 Days of React](https://www.30daysofreact.com)
 
-- **Anki**
-  📚 Anki APP [AnkiWeb](https://apps.ankiweb.net
-Remember to Star the Repository if you like it and come back for updates
+### **Extra Resources**
+    https://javascript.info/
+    https://roadmap.sh/ai
+    https://apps.ankiweb.net (you can find anki decks in the repo)
+    
